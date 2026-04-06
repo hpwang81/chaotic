@@ -9,24 +9,7 @@ This is the official PyTorch implementation of "Dynamics analysis of a novel con
 
 ### Requirements
 
-- Linux with Python ≥ 3.6
-- PyTorch >= 1.8.1
-- timm >= 0.3.2
-- CUDA 11.1
-- An NVIDIA GPU
-
-### Conda environment setup
-
-```bash
-conda create -n Pytorch python=3.9
-conda activate Pytorch
-
-# Install Pytorch and TorchVision
-pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
-
-# Install scikit-learn
-pip install scikit-learn
-```
+- Mtalab
 
 If you use this code for a paper please cite:
 
